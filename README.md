@@ -7,6 +7,8 @@ Complete re-design of the character sheet. It now features a better readability 
 
 I also removed the multiple files for fillable and printing use. There is now only a single file that can be used to print for manual, analog use.
 
+A redesign of the ship sheet will follow tomorrow (hopefully). Until then, I decided to remove the old one from the repository to minimize confusion about different verions and designs.
+
 # todo
 I am currently working on the robot, npc and vehicle sheet.
 
