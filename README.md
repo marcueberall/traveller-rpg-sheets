@@ -10,8 +10,7 @@ I also removed the multiple files for fillable and printing use. There is now on
 A redesign of the ship sheet will follow tomorrow (hopefully). Until then, I decided to remove the old one from the repository to minimize confusion about different verions and designs.
 
 ### 2024-12-23
-- Re-design of the ship sheets now finished.
-- NPC sheet added
+Re-design of the ship sheets now finished and npc sheet added.
 
 # todo
 I am currently working on the robot, npc and vehicle sheet.
